@@ -2,6 +2,7 @@
 // @name         SCEPaperDownloader
 // @namespace    http://tampermonkey.net/
 // @version      0.1
+// @license      MIT
 // @description  Easy news backup!
 // @author       Kamfu
 // @match        http://epaper.sinchew.com.my/sinchewepaper/mobimax/reader/*
